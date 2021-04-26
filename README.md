@@ -1,6 +1,8 @@
--  Hello, I am Mihir Sahu, B-Tech undergraduate student at IIT Patna. 
--  I am interested in android development, database management and competitive programming
+-  Hello, I am Mihir Sahu, B.Tech undergraduate student at IIT Patna. 
+-  I am interested in Android Development, Database Management and competitive programming
+-  I am good at C++/C, Java, Kotlin, Python 
 -  I am currently learning firebase and kotlin
+
 - [LinkedIn](https://www.linkedin.com/in/mihir-sahu-73b3ba200/), Email : mihirsahu2307@gmail.com
 
 <!---
